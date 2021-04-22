@@ -7,7 +7,7 @@ if (setsockopt(server_fd, SOL_SOCKET, SO_REUSEADDR | SO_REUSEPORT, &opt, sizeof(
  
  # Team assignment
  - Somya Menghani(Student Id:014172197)
- - Prashanth Narasimha
+ - Prashanth Narasimha(Student Id:014632592)
  
  - Assignment 1
  - For server sudo ./server
